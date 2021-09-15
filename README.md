@@ -1,3 +1,3 @@
 # hello_world
 how to use Github
-hi my name is alex.
+hi! my name is Alex.
